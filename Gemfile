@@ -75,3 +75,4 @@ end
 gem 'simple_form'
 gem 'devise'
 gem "fog-aws"
+gem "figaro"
