@@ -8,6 +8,4 @@ class CoursesController < ApplicationController
   end
 end
 
-def course_params
-    params.require(:course).permit(:image)
-end
+
